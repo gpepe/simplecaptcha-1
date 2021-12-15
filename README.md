@@ -1,4 +1,4 @@
-# SimpleCaptcha
+# SimpleCaptcha Jakarta version
 
 A Java library for creating CAPTCHAs for J2EE applications,
 including Spring MVC, Struts, and Grails.
@@ -10,7 +10,4 @@ learning how to implement and use SimpleCaptcha.
 To build, simply run ant from this directory. The only requirement is that the 
 $CATALINA_HOME environment variable be set:
 
-```bash
-set $CATALINA_HOME=/usr/apache-tomcat-6.0.18/
 ant
-```

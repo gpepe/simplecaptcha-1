@@ -6,7 +6,7 @@
 
     <path id="simplecaptcha.classpath">
         <pathelement location="bin"/>
-        <pathelement location="${env.CATALINA_HOME}/lib/servlet-api.jar"/>
+        <pathelement location="lib/jakarta.servlet-api.jar"/>
         <pathelement location="lib/imaging.jar"/>
     </path>
 
